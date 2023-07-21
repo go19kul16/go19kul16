@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/gokul-nellaiappan-948a9b1b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokulnellaiappan" height="30" width="40" /></a>
 <a href="https://fb.com/go19kul16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="go19kul16" height="30" width="40" /></a>
-<a href="https://instagram.com/go19.kul16" target="blank"><img align="center" src="https://davidsuescunpelegay.github.io/instagram-logo/" alt="go19.kul16" height="30" width="40" /></a>
+<a href="https://instagram.com/go19.kul16" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Instagram_logo_2016.svg#/media/File:Instagram_logo_2016.svg" alt="go19.kul16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
