@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GOKUL</h1>
 <h3 align="center">Student At SASTRA | Intern At Feynn Labs |</h3>
 
-- 🔭 I’m currently working on [BMI PREDICTION](https://github.com/go19kul16/Mini_Project)
+- 🔭 I’m currently working on [Mini Project](https://github.com/go19kul16/Mini_Project)
 
 - 🌱 I’m currently learning **TensorFlow**
 
