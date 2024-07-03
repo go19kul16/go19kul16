@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GOKUL</h1>
-<h3 align="center">Student At SASTRA | Intern At Feynn Labs |</h3>
+<h3 align="center">Student At SASTRA | Intern At NIT,Calicut |</h3>
 
 - 🔭 I’m currently working on [Path Finding](https://github.com/go19kul16/Path-Finding)
 
