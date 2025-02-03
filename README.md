@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm GOKUL</h1>
 <h3 align="center">Final Year Student @ SASTRA | Ex-Intern @ NIT,Calicut |</h3>
 
-- 🔭 I’m currently working on [Form_Theft_Detection](https://github.com/go19kul16/Form_Theft_Detection)
+- 🔭 I’m currently working on [Expense Tracker](https://github.com/go19kul16/Expense)
 
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **go19kul16@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I won't be Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
